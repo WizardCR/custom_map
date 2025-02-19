@@ -8,8 +8,8 @@ function initMap() {
     });
 
     var locations = [
-        { lat: 9.9281, lng: -84.0907, title: "Location 1", img: "custom-pin1.png" },
-        { lat: 9.935, lng: -84.100, title: "Location 2", img: "custom-pin2.png" }
+        { lat: 9.9281, lng: -84.0907, title: "Location 1", img: "images/Xcaret-logo.png" },
+        { lat: 9.935, lng: -84.100, title: "Location 2", img: "images/Xcaret-logo.png" }
     ];
 
     locations.forEach(function (location) {
